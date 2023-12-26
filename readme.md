@@ -1,6 +1,6 @@
 # Psychological Help Telegram Bot
 
-Welcome to the Psychological Help [Telegram Bot](t.me/YaPomoschnik_Bot). This bot is designed to assist individuals seeking guidance and support for various psychological issues. Using advanced natural language processing, it provides helpful responses, resources, and insights.
+Welcome to the Psychological Help [Telegram Bot](https://t.me/YaPomoschnik_Bot). This bot is designed to assist individuals seeking guidance and support for various psychological issues. Using advanced natural language processing, it provides helpful responses, resources, and insights.
 
 ## Features
 
